@@ -7,3 +7,10 @@ The implmentation of *composite design pattern* in C# using a simple console app
 Let us assume we have a have an Organization having different departments and each department consists of employees. The requirement is that the **Client wants to collect (read) the recorded working hours of every employee along with the total working hour of each department.**
 
 An organization maintains the list of employees in an hierarchical way, so we can consider the use of composite design pattern to fulfill the client's requirement.
+
+**Application Output**
+
+![](composite-design-pattern-application-output.png)
+
+
+The complete details about the Composite Design Pattern can be found at the following link: https://executecommands.com/composite-design-pattern-csharp-simple-example/
